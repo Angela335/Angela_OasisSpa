@@ -8,6 +8,7 @@ My name is Angela, and I'm a licensed esthetician specializing in facial treatme
 ![image of skincare product](https://images.unsplash.com/photo-1552046122-03184de85e08?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ### "Skincare is not superficial because it's healthcare. When you have beautiful skin it's a sign that you have a healthy mind and body." - Jess Scott
 
+
 ## What Clients Have To Say
 
 "I love the amenities and services offered here! Angela was very knowledgeable and did a great job of specializing her treatments based on my skincare needs." - Stacy Morgans
@@ -15,7 +16,6 @@ My name is Angela, and I'm a licensed esthetician specializing in facial treatme
 
 "Angela is my go-to-girl for all my waxing needs. She quick and efficient!" - Jo Whitaker
 <br>
-
 "Upon walking into this spa, I was greeted by the sweetest receptionist team and given a variety of complimentary refreshments. Talk about great customer service!" - Oscar White
 
 ## Let's Stay In Touch!
