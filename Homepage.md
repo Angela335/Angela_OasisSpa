@@ -1,5 +1,11 @@
 # Welcome!
-My name is Angela, and I'm a licensed esthetician specializing in facial treatments and sugar waxing. As someone who has acne-prone and sensitive skin, I specialize in acne treatments and rosacea control, using products that help combat acne and soothe the skin. Whether you need waxing, a pampering session, or have particular concerns about your skin, I would love to take care of your skin care needs!
+My name is Angela, and I'm a licensed esthetician specializing in facial treatments and sugar waxing. As someone who has acne-prone and sensitive skin, I specialize in acne treatments and rosacea control, using products that help combat acne and soothe the skin. Whether you need waxing, a pampering session, or have particular concerns about your skin, I would love to take care of your skin care needs.
+<br>
+
+Want to learn more about my services?
+<br>
+
+Yes!
 <br>
 
 ![image of a facial model](https://assets.lummi.ai/assets/QmTktuhaCqdoptyyZ2bjqbiS6gENWTQRJcHLoakNuj8Xju?auto=format&w=1500)
