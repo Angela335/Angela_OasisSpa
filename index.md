@@ -19,7 +19,7 @@ My name is Angela, and I'm a licensed esthetician specializing in facial treatme
 ## Services
 ### Sugar Waxing
 <br>
-  Full Face (lip, brow, chin, nose) - $30
+Full Face (lip, brow, chin, nose) - $30
   <br>
   Lip - $ 10
   <br>
