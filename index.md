@@ -42,7 +42,7 @@ My name is Angela, and I'm a licensed esthetician specializing in facial treatme
   ### Facial Treatments
   <br>
 
-  **Prices for facials and chemical peels can have range depending on your skin and personal preferences. For a price estimate, call our office at 000-000-0000.**
+  **Prices for facials and chemical peels can range drastically depending on your skin and personal preferences. For price estimates, call our office at 000-000-0000.**
   
   <br>
   Acne Facial
