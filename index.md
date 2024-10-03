@@ -45,18 +45,20 @@ My name is Angela, and I'm a licensed esthetician specializing in facial treatme
   ### Facial Treatments
   <br>
 
-  **Prices for facials and chemical peels can range drastically depending on your skin and personal preferences. For price estimates, call our office at 000-000-0000.**
+  **Prices for facials and chemical peels can range drastically depending on your skin and personal preferences. For inquiries regarding estimates, call our office at 000-000-0000.**
   
   <br>
-  Acne Facial
+  Acne Facial - $150+
   <br>
-  Hydrafacial
+  Anti-Aging Facial - $150+
   <br>
-  Chemical Peels
+  Hydrafacial - $200+
   <br>
-  LED Treatments 
+  Chemical Peels - $250+
   <br>
-  Microcurrent Device
+  LED Treatments - $50+
+  <br>
+  Microcurrent Device -$50+
 
 ## What Clients Have To Say
 
